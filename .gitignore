@@ -1,0 +1,12 @@
+# Ignore IDE generated files
+.idea/
+.gradle/
+out/
+build/
+gradle/
+gradlew
+*.iml
+gradlew.*
+
+# Ignore generated classes
+src/main/generated/
