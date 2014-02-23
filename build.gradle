@@ -46,7 +46,6 @@ dependencies {
     compile "jstl:jstl:${jstlVersion}"
     compile "org.apache.tomcat:tomcat-dbcp:${tomcatVersion}"
     compile "org.javassist:javassist:${javassistVersion}"
-    // compile "com.mysema.querydsl:querydsl-apt:${querydslVersion}"
     compile "com.mysema.querydsl:querydsl-jpa:${querydslVersion}"
 
     runtime "mysql:mysql-connector-java:${mysqlConnectorVersion}"
